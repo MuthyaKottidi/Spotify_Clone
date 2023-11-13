@@ -16,9 +16,9 @@ let songs = [
     {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Shape of you", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Let me love you", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
-    {songName: "On and on", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Love mw like you do", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
+    {songName: "On and on", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
+    {songName: "let me love you", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Love me like you do", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
     
 ]
 
