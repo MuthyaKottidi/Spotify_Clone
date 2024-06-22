@@ -10,15 +10,15 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Warriyo - Mortals [NCS Release]", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Warriyo - Mortals", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Cielo - Huma-Huma", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Shape of you", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
-    {songName: "On and on", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
-    {songName: "let me love you", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Love me like you do", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
+    {songName: "DEAF KEV - Invincible", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "Different Heaven & EH!DE - My Heart", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Janji-Heroes-Tonight-feat-Johnning", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Egzod,Maestro Chives", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Lost Sky-fearless", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
+    {songName: "Janji & Johnning", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Rameses B-GET MUCKY", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
     
 ]
 
